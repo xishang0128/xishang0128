@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 ^ ^
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=xishang0128&show_icons=true&role=OWNER,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **xishang0128/xishang0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
